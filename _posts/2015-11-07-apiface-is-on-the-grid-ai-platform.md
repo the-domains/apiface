@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2015-11-07T22:32:00.240Z'
-dateModified: '2015-11-07T22:31:31.757Z'
+datePublished: '2015-11-07T22:32:27.767Z'
+dateModified: '2015-11-07T22:32:08.852Z'
 title: APIFace is on The Grid AI platform.
 authors: []
 publisher:
