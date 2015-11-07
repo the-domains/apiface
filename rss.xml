@@ -4,8 +4,15 @@
         <description><![CDATA[APIFace]]></description>
         <link>https://thegrid.ai/apiface/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 07 Nov 2015 23:13:13 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Nov 2015 23:16:17 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/apiface/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Getting Started]]></title>
+            <description><![CDATA[<article><h1>Getting Started</h1><p>And this is why our documentation is open and anyone can put APItude to the test. We don't have previous requirements to register and to start testing the functionalities of APItude. Check it out and, if you are engaged in developing a project on online hotel distribution, we would love to start making great things together!</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/329f1b48-9cbb-4a51-8d5e-4e9c907e0cc1.png"></article>]]></description>
+            <link>https://developer.hotelbeds.com/getting_started</link>
+            <guid isPermaLink="false">893ada4a-572c-4863-9e40-cedfb83666b9</guid>
+            <pubDate>Sat, 07 Nov 2015 23:15:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Dark Sky Forecast API]]></title>
             <description><![CDATA[<article><h1>The Dark Sky Forecast API</h1><p>The same API that powers Forecast.io and Dark Sky for iOS can provide accurate short­term and long­term weather predictions to your business, application, or crazy idea.</p><img src="https://developer.forecast.io/img/dark_sky.jpg"></article>]]></description>
