@@ -1,0 +1,23 @@
+name: APIFace
+favicon: null
+layout_spectrum: 0.1649847838561982
+typography_spectrum: 0.5401124923955649
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.3768769989255816
+  lightness: 0.8739035620819777
+  saturation: 0.3182914333883673
+  rhythmicContrast: 0.7712828286457807
+purpose: []
