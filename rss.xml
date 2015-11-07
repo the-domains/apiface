@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[APIFace is on The Grid AI]]></title>
-        <description><![CDATA[APIFace is on The Grid AI]]></description>
+        <title><![CDATA[APIFAce on The Grid]]></title>
+        <description><![CDATA[APIFAce on The Grid]]></description>
         <link>https://thegrid.ai/apiface/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 07 Nov 2015 22:37:34 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Nov 2015 22:44:39 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/apiface/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[APIFace it on The Grid]]></title>
             <description><![CDATA[<h1>APIFace it on The Grid</h1>]]></description>
             <link>https://thegrid.ai/apiface/apiface-it-on-the-grid/index.html</link>
             <guid isPermaLink="false">405d2a7e-4893-477b-92f5-454c0eb5b1cb</guid>
-            <pubDate>Sat, 07 Nov 2015 22:37:34 GMT</pubDate>
+            <pubDate>Sat, 07 Nov 2015 22:44:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Hosted cloud search as a service | AlgoliaSearch]]></title>
