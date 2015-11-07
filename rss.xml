@@ -4,8 +4,15 @@
         <description><![CDATA[APIFace]]></description>
         <link>https://thegrid.ai/apiface/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 07 Nov 2015 22:55:10 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Nov 2015 23:02:57 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/apiface/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[HotelBeds Developer Portal - Welcome to the Hotelbeds Developer Network!]]></title>
+            <description><![CDATA[<article><h1>HotelBeds Developer Portal - Welcome to the Hotelbeds Developer Network!</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/aa1bcb20-e47e-4aa2-837b-5b09fa12cb44.png"></article>]]></description>
+            <link>https://developer.hotelbeds.com/</link>
+            <guid isPermaLink="false">4ca1702c-145e-4e23-b647-e57a669a58f9</guid>
+            <pubDate>Sat, 07 Nov 2015 23:02:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Twilio - APIs for Text Messaging, VoIP & Voice in the Cloud]]></title>
             <description><![CDATA[<article><h1>Twilio - APIs for Text Messaging, VoIP & Voice in the Cloud</h1><p>Cloud communications platform for building Voice & Messaging applications on an API built for global scale. Get started with a free trial.</p></article>]]></description>
