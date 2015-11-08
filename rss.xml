@@ -4,8 +4,15 @@
         <description><![CDATA[APIFace]]></description>
         <link>https://thegrid.ai/apiface/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 08 Nov 2015 01:31:54 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Nov 2015 01:32:10 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/apiface/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[API | Weather Underground]]></title>
+            <description><![CDATA[<article><h1>API | Weather Underground</h1><p>Weather Underground provides local & long range Weather Forecast, weather reports, maps & tropical weather conditions for locations worldwide.</p><img src="http://icons-ak4.wxug.com//webcamramdisk/w/u/WunderYakuza/15/citypage.jpg"></article>]]></description>
+            <link>http://www.wunderground.com/weather/api/d/pricing.html</link>
+            <guid isPermaLink="false">b9b8227b-236b-4756-91b6-3efc1bb69553</guid>
+            <pubDate>Sun, 08 Nov 2015 01:30:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Stripe: The best way to accept payments online or in your apps]]></title>
             <description><![CDATA[<article><h1>Stripe: The best way to accept payments online or in your apps</h1><p>Robust, clean APIs that let you focus on building great products. There are Stripe libraries in everything from Java to Go. Check out the docs and explore the full API reference curl Ruby Python PHP Java Node Go These actually work-try running them directly in your terminal.</p><img src="https://stripe.com/img/open-graph/logo.png?2"></article>]]></description>
