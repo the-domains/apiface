@@ -4,8 +4,15 @@
         <description><![CDATA[APIFace]]></description>
         <link>https://thegrid.ai/apiface/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 08 Nov 2015 01:31:33 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Nov 2015 01:31:54 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/apiface/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Stripe: The best way to accept payments online or in your apps]]></title>
+            <description><![CDATA[<article><h1>Stripe: The best way to accept payments online or in your apps</h1><p>Robust, clean APIs that let you focus on building great products. There are Stripe libraries in everything from Java to Go. Check out the docs and explore the full API reference curl Ruby Python PHP Java Node Go These actually work-try running them directly in your terminal.</p><img src="https://stripe.com/img/open-graph/logo.png?2"></article>]]></description>
+            <link>https://stripe.com/gb/features</link>
+            <guid isPermaLink="false">e6e61292-a9f9-427f-bcc0-b7449d14a1ad</guid>
+            <pubDate>Sun, 08 Nov 2015 01:30:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Email Delivery & Transactional Email Service | SendGrid]]></title>
             <description><![CDATA[<article><h1>Email Delivery & Transactional Email Service | SendGrid</h1><p>Learn why more developers choose SendGrid for their email deliverability service to send transactional emails triggered by web apps. Get started for free</p><img src="https://assets4.sendgrid.com/mkt/assets/home/customer-hero-0e70086de291fdf35b5dce58b6013372.jpg"></article>]]></description>
