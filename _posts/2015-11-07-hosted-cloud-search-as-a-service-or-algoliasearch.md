@@ -22,14 +22,14 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'https://www.algolia.com/'
 title: 'Hosted cloud search as a service | AlgoliaSearch'
-datePublished: '2015-11-08T00:24:02.960Z'
-dateModified: '2015-11-08T00:23:54.430Z'
+datePublished: '2015-11-08T00:27:15.247Z'
+dateModified: '2015-11-08T00:27:10.143Z'
 sourcePath: _posts/2015-11-07-hosted-cloud-search-as-a-service-or-algoliasearch.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
-starred: true
+starred: false
 authors: []
 _context: 'http://schema.org'
 _type: MediaObject
