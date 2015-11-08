@@ -7,8 +7,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2015-11-07T23:39:04.952Z'
-dateModified: '2015-11-07T23:39:01.442Z'
+datePublished: '2015-11-08T00:26:07.307Z'
+dateModified: '2015-11-08T00:26:01.389Z'
 title: APIFace on The Grid
 sourcePath: _posts/2015-11-07-apiface-it-on-the-grid.md
 published: true
