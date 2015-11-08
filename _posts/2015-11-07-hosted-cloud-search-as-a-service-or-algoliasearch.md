@@ -2,10 +2,10 @@
 author: []
 related: []
 publisher:
-  url: 'https://www.algolia.com'
   name: Algolia
-  favicon: 'https://www.algolia.com/assets/favicon-3912dc475f47f4caea952566a37710c6.ico'
   domain: www.algolia.com
+  url: 'https://www.algolia.com'
+  favicon: 'https://www.algolia.com/assets/favicon-3912dc475f47f4caea952566a37710c6.ico'
 keywords:
   - myindex
   - firstname
@@ -22,13 +22,15 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'https://www.algolia.com/'
 title: 'Hosted cloud search as a service | AlgoliaSearch'
-datePublished: '2015-11-07T22:32:51.530Z'
-dateModified: '2015-11-07T22:32:35.220Z'
+datePublished: '2015-11-08T00:24:02.960Z'
+dateModified: '2015-11-08T00:23:54.430Z'
 sourcePath: _posts/2015-11-07-hosted-cloud-search-as-a-service-or-algoliasearch.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+starred: true
+authors: []
 _context: 'http://schema.org'
 _type: MediaObject
 
