@@ -1,11 +1,10 @@
 ---
-author: []
-related: []
-publisher:
-  name: Algolia
-  domain: www.algolia.com
-  url: 'https://www.algolia.com'
-  favicon: 'https://www.algolia.com/assets/favicon-3912dc475f47f4caea952566a37710c6.ico'
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.algolia.com/'
+inLanguage: en
+starred: false
 keywords:
   - myindex
   - firstname
@@ -18,19 +17,20 @@ keywords:
   - addobject
   - index
 description: "Algolia's Search API makes it easy to deliver a great search experience in your apps & websites. Algolia Search provides hosted full-text, numerical, faceted and geolocalized search."
-inLanguage: en
+datePublished: '2015-11-08T00:31:36.417Z'
+dateModified: '2015-11-08T00:31:32.531Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'https://www.algolia.com/'
 title: 'Hosted cloud search as a service | AlgoliaSearch'
-datePublished: '2015-11-08T00:27:15.247Z'
-dateModified: '2015-11-08T00:27:10.143Z'
 sourcePath: _posts/2015-11-07-hosted-cloud-search-as-a-service-or-algoliasearch.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
-starred: false
 authors: []
+publisher:
+  name: Algolia
+  domain: www.algolia.com
+  url: 'https://www.algolia.com'
+  favicon: 'https://www.algolia.com/assets/favicon-3912dc475f47f4caea952566a37710c6.ico'
 _context: 'http://schema.org'
 _type: MediaObject
 
