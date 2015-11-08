@@ -17,8 +17,8 @@ keywords:
   - ios
   - badge
 description: 'The same API that powers Forecast.io and Dark Sky for iOS can provide accurate short­term and long­term weather predictions to your business, application, or crazy idea.'
-datePublished: '2015-11-07T23:13:12.627Z'
-dateModified: '2015-11-07T23:13:08.167Z'
+datePublished: '2015-11-08T00:44:43.213Z'
+dateModified: '2015-11-08T00:44:39.253Z'
 author: []
 related: []
 app_links: []
