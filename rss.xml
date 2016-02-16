@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[APIFace]]></title>
+        <description><![CDATA[APIFace]]></description>
+        <link>https://thegrid.ai/apiface/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 16 Feb 2016 03:33:01 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/apiface/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[What Does Altmetric Do?]]></title>
+            <description><![CDATA[<article><h1>What Does Altmetric Do?</h1><p>Altmetric Explorer A powerful and intuitive web application that helps you see all of the attention surrounding your papers. Altmetric Bookmarklet A simple browser tool that lets you instantly get article level metrics for any recent paper, for free. Altmetric API An application programming interface that enables you to enrich your pages with article level metrics data.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1898bd51e422a2a68f387131a83db04e93bc0368.png"></article>]]></description>
+            <link>http://www.altmetric.com/whatwedo.php</link>
+            <guid isPermaLink="false">b26ef7f3-f6b5-4ba7-9351-81a3da3f11c7</guid>
+            <pubDate>Tue, 16 Feb 2016 03:32:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Fabric - Twitter's Mobile Development Platform]]></title>
+            <description><![CDATA[<article><h1>Fabric - Twitter's Mobile Development Platform</h1><p>Building great mobile apps is hard. With Crashlytics, we solved crash reporting, beta distribution and mobile analytics for many of you -- but that was only the beginning. Developers face many other challenges everyday: verifying users, engaging them, generating revenue, among others. Each presents a unique set of hurdles.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7d9efc33e411d07045adba4e4d89b3cddaae959d.png"></article>]]></description>
+            <link>https://get.fabric.io/</link>
+            <guid isPermaLink="false">01854604-f284-44c7-99e2-324f0f6fc04d</guid>
+            <pubDate>Mon, 16 Nov 2015 22:22:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[API | Weather Underground]]></title>
+            <description><![CDATA[<article><h1>API | Weather Underground</h1><p>Weather Underground provides local & long range Weather Forecast, weather reports, maps & tropical weather conditions for locations worldwide.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dea8773c7edbdff3cda34e7e9bc1afd0d1baa77c.jpg"></article>]]></description>
+            <link>http://www.wunderground.com/weather/api/d/pricing.html</link>
+            <guid isPermaLink="false">b9b8227b-236b-4756-91b6-3efc1bb69553</guid>
+            <pubDate>Sun, 08 Nov 2015 01:30:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Stripe: The best way to accept payments online or in your apps]]></title>
+            <description><![CDATA[<article><h1>Stripe: The best way to accept payments online or in your apps</h1><p>Robust, clean APIs that let you focus on building great products. There are Stripe libraries in everything from Java to Go. Check out the docs and explore the full API reference curl Ruby Python PHP Java Node Go These actually work-try running them directly in your terminal.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ddfc1c8635da3fcdd1d703a3c6b094d21645ca2c.png"></article>]]></description>
+            <link>https://stripe.com/gb/features</link>
+            <guid isPermaLink="false">e6e61292-a9f9-427f-bcc0-b7449d14a1ad</guid>
+            <pubDate>Sun, 08 Nov 2015 01:30:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Email Delivery & Transactional Email Service | SendGrid]]></title>
+            <description><![CDATA[<article><h1>Email Delivery & Transactional Email Service | SendGrid</h1><p>Learn why more developers choose SendGrid for their email deliverability service to send transactional emails triggered by web apps. Get started for free</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/44bae56d4f6b8f0f9169c84abec11c2bd0cebd58.jpg"></article>]]></description>
+            <link>https://sendgrid.com/</link>
+            <guid isPermaLink="false">85ac4b2a-0d29-4b40-b5a5-30b9c3fb8868</guid>
+            <pubDate>Sun, 08 Nov 2015 01:30:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Pusher | Leader In Realtime Technologies]]></title>
+            <description><![CDATA[<article><h1>Pusher | Leader In Realtime Technologies</h1><p>Each month, we deliver over 40 billion messages to more than 3.5 billion devices through our API.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a8b176897782d2bbce873e4ff1fcf113eca26ee4.jpg"></article>]]></description>
+            <link>https://pusher.com/</link>
+            <guid isPermaLink="false">fde17d84-fb39-49a4-abdd-a764d8d8125d</guid>
+            <pubDate>Sun, 08 Nov 2015 01:30:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hosted cloud search as a service | AlgoliaSearch]]></title>
+            <description><![CDATA[<article><h1>Hosted cloud search as a service | AlgoliaSearch</h1><p>Algolia's Search API makes it easy to deliver a great search experience in your apps & websites. Algolia Search provides hosted full-text, numerical, faceted and geolocalized search.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3154828fdd271b4b3880de356ebcdd8d0bb7be09.png"></article>]]></description>
+            <link>https://www.algolia.com/</link>
+            <guid isPermaLink="false">6d062615-79e9-4460-8796-cd0435e80bb6</guid>
+            <pubDate>Sun, 08 Nov 2015 00:31:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Apiary - Build beautiful APIs]]></title>
+            <description><![CDATA[<article><h1>Apiary - Build beautiful APIs</h1><p>Apiary makes API development simple and collaborative. The Apiary platform is the only developer-centric solution with tooling for every stage of the API lifecycle: designing, prototyping, testing, and documentation.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/42d7a435fc146901387bb4070ab7120a49208feb.png"></article>]]></description>
+            <link>https://apiary.io/</link>
+            <guid isPermaLink="false">1f320070-53ad-457a-9862-cddec2434504</guid>
+            <pubDate>Sat, 07 Nov 2015 23:37:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Dark Sky Forecast API]]></title>
+            <description><![CDATA[<article><h1>The Dark Sky Forecast API</h1><p>The same API that powers Forecast.io and Dark Sky for iOS can provide accurate short­term and long­term weather predictions to your business, application, or crazy idea.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4d540c7babc5022fe881b3e2a2cc7d7ac0f2d54d.jpg"></article>]]></description>
+            <link>https://developer.forecast.io/</link>
+            <guid isPermaLink="false">5a5fb099-647d-443b-8d1c-b0fbf7330c09</guid>
+            <pubDate>Sun, 08 Nov 2015 00:44:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Twilio - APIs for Text Messaging, VoIP & Voice in the Cloud]]></title>
+            <description><![CDATA[<article><h1>Twilio - APIs for Text Messaging, VoIP & Voice in the Cloud</h1><p>Cloud communications platform for building Voice & Messaging applications on an API built for global scale. Get started with a free trial.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e02b793657f62ccd8b84a44f0fc9b691404b6eb6.jpg"></article>]]></description>
+            <link>https://www.twilio.com/</link>
+            <guid isPermaLink="false">537a5797-6511-4cfd-8745-efa7886e3587</guid>
+            <pubDate>Sun, 08 Nov 2015 00:44:48 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
