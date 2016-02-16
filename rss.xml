@@ -4,8 +4,15 @@
         <description><![CDATA[APIFace]]></description>
         <link>https://thegrid.ai/apiface/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 16 Feb 2016 03:33:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Feb 2016 03:33:06 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/apiface/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[HotelBeds Developer Portal - Welcome to the Hotelbeds Developer Network!]]></title>
+            <description><![CDATA[<article><h1>HotelBeds Developer Portal - Welcome to the Hotelbeds Developer Network!</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/61afd35c-54a1-4b4b-af2c-e120ad5ce8a3.png"></article>]]></description>
+            <link>https://developer.hotelbeds.com/</link>
+            <guid isPermaLink="false">95660fc2-75eb-4f19-b5a0-86acf25b7f81</guid>
+            <pubDate>Tue, 16 Feb 2016 03:31:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[What Does Altmetric Do?]]></title>
             <description><![CDATA[<article><h1>What Does Altmetric Do?</h1><p>Altmetric Explorer A powerful and intuitive web application that helps you see all of the attention surrounding your papers. Altmetric Bookmarklet A simple browser tool that lets you instantly get article level metrics for any recent paper, for free. Altmetric API An application programming interface that enables you to enrich your pages with article level metrics data.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1898bd51e422a2a68f387131a83db04e93bc0368.png"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://developer.forecast.io/</link>
             <guid isPermaLink="false">5a5fb099-647d-443b-8d1c-b0fbf7330c09</guid>
             <pubDate>Sun, 08 Nov 2015 00:44:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Twilio - APIs for Text Messaging, VoIP & Voice in the Cloud]]></title>
-            <description><![CDATA[<article><h1>Twilio - APIs for Text Messaging, VoIP & Voice in the Cloud</h1><p>Cloud communications platform for building Voice & Messaging applications on an API built for global scale. Get started with a free trial.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e02b793657f62ccd8b84a44f0fc9b691404b6eb6.jpg"></article>]]></description>
-            <link>https://www.twilio.com/</link>
-            <guid isPermaLink="false">537a5797-6511-4cfd-8745-efa7886e3587</guid>
-            <pubDate>Sun, 08 Nov 2015 00:44:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
