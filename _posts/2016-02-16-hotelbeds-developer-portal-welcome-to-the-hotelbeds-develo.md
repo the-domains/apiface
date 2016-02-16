@@ -17,8 +17,8 @@ keywords:
   - fastest
   - instant
 description: ''
-datePublished: '2016-02-16T03:38:37.739Z'
-dateModified: '2016-02-16T03:38:23.195Z'
+datePublished: '2016-02-16T03:41:10.932Z'
+dateModified: '2016-02-16T03:41:07.347Z'
 author: []
 related: []
 app_links: []
@@ -35,6 +35,6 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/01b6095e-425c-412b-ae20-8e409d00af28.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/87c2d5c0b08de5ca17a14a56d3c614efe958fad1.png)
 
-Welcome to APITUDE Developer Network by Hotelbeds.
+THE FASTEST AND LIGHTEST HOTEL DISTRIBUTION API
