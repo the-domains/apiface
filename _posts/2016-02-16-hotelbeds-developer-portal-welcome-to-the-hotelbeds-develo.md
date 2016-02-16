@@ -17,8 +17,8 @@ keywords:
   - fastest
   - instant
 description: ''
-datePublished: '2016-02-16T03:35:42.625Z'
-dateModified: '2016-02-16T03:35:30.844Z'
+datePublished: '2016-02-16T03:38:37.739Z'
+dateModified: '2016-02-16T03:38:23.195Z'
 author: []
 related: []
 app_links: []
@@ -37,4 +37,4 @@ _type: MediaObject
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/01b6095e-425c-412b-ae20-8e409d00af28.png)
 
-<article style=""><h1>HotelBeds Developer Portal - Welcome to the Hotelbeds Developer Network!</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9a3c830b4ca73313e8e9b51fc838f1a527df222e.png" /></article>
+Welcome to APITUDE Developer Network by Hotelbeds.
