@@ -4,11 +4,18 @@
         <description><![CDATA[APIFace]]></description>
         <link>https://thegrid.ai/apiface/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 16 Feb 2016 03:44:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Sep 2016 18:32:52 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/apiface/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[API Face]]></title>
+            <description><![CDATA[<article><h1>API Face</h1><p>www.programmableweb.com Google said it plans to shutdown the GData Admin Settings API. It is giving developers one year to migrate to newer tools. The API will cease functioning in August 2017. The Admin Settings API let...</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/72102f5813decb652a2a26358f446e39/noop.png?input=https%3A%2F%2Fd197nsfq0bri0.cloudfront.net%2Fpaper_avatars%2Fa7666fad-5a90-4ead-99ff-69e01c27fe63%2Fflqvn3exy9q4si8zwrk3%2Flearnmore-api.png"></article>]]></description>
+            <link>http://apiface.io</link>
+            <guid isPermaLink="false">8877848d-025d-4a3c-b635-5a00d505300b</guid>
+            <pubDate>Fri, 02 Sep 2016 18:32:50 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[HotelBeds Developer Portal - Welcome to the Hotelbeds Developer Network!]]></title>
-            <description><![CDATA[<article><h1>HotelBeds Developer Portal - Welcome to the Hotelbeds Developer Network!</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/87c2d5c0b08de5ca17a14a56d3c614efe958fad1.png"></article>]]></description>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/87c2d5c0b08de5ca17a14a56d3c614efe958fad1.png" alt="" title="">]]></description>
             <link>https://developer.hotelbeds.com/</link>
             <guid isPermaLink="false">95660fc2-75eb-4f19-b5a0-86acf25b7f81</guid>
             <pubDate>Tue, 16 Feb 2016 03:41:10 GMT</pubDate>
@@ -56,25 +63,18 @@
             <pubDate>Sun, 08 Nov 2015 01:30:57 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Hosted cloud search as a service | AlgoliaSearch]]></title>
-            <description><![CDATA[<article><h1>Hosted cloud search as a service | AlgoliaSearch</h1><p>Algolia's Search API makes it easy to deliver a great search experience in your apps & websites. Algolia Search provides hosted full-text, numerical, faceted and geolocalized search.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3154828fdd271b4b3880de356ebcdd8d0bb7be09.png"></article>]]></description>
-            <link>https://www.algolia.com/</link>
-            <guid isPermaLink="false">6d062615-79e9-4460-8796-cd0435e80bb6</guid>
-            <pubDate>Sun, 08 Nov 2015 00:31:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Apiary - Build beautiful APIs]]></title>
-            <description><![CDATA[<article><h1>Apiary - Build beautiful APIs</h1><p>Apiary makes API development simple and collaborative. The Apiary platform is the only developer-centric solution with tooling for every stage of the API lifecycle: designing, prototyping, testing, and documentation.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/42d7a435fc146901387bb4070ab7120a49208feb.png"></article>]]></description>
-            <link>https://apiary.io/</link>
-            <guid isPermaLink="false">1f320070-53ad-457a-9862-cddec2434504</guid>
-            <pubDate>Sat, 07 Nov 2015 23:37:03 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[The Dark Sky Forecast API]]></title>
             <description><![CDATA[<article><h1>The Dark Sky Forecast API</h1><p>The same API that powers Forecast.io and Dark Sky for iOS can provide accurate short­term and long­term weather predictions to your business, application, or crazy idea.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4d540c7babc5022fe881b3e2a2cc7d7ac0f2d54d.jpg"></article>]]></description>
             <link>https://developer.forecast.io/</link>
             <guid isPermaLink="false">5a5fb099-647d-443b-8d1c-b0fbf7330c09</guid>
             <pubDate>Sun, 08 Nov 2015 00:44:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hosted cloud search as a service | AlgoliaSearch]]></title>
+            <description><![CDATA[<article><h1>Hosted cloud search as a service | AlgoliaSearch</h1><p>Algolia's Search API makes it easy to deliver a great search experience in your apps & websites. Algolia Search provides hosted full-text, numerical, faceted and geolocalized search.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3154828fdd271b4b3880de356ebcdd8d0bb7be09.png"></article>]]></description>
+            <link>https://www.algolia.com/</link>
+            <guid isPermaLink="false">6d062615-79e9-4460-8796-cd0435e80bb6</guid>
+            <pubDate>Sun, 08 Nov 2015 00:31:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
